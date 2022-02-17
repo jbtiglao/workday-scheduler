@@ -84,3 +84,6 @@ The following books, handouts, websites, and other resources were consulted and/
 * https://w3schools.com for Javascript and Third-Party APIs references and tutorials; and
 
 * https://www.youtube.com for Javascript tutorials.
+
+## License
+MIT License. Please see LICENSE on the application's GitHub repository.
